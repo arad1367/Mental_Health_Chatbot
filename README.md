@@ -68,13 +68,6 @@ We present a comprehensive mixed-methods analysis of user interactions with ment
 
 - **Live Demo:** [https://arad1367.github.io/therapist/](https://arad1367.github.io/therapist/)
 - The web experiment is implemented in `code/index.html`.  
-- Screenshots SS1.png–SS6.png (in `Plots and SS/`) illustrate the user flow and interface:
-  - **SS1.png:** Welcome screen
-  - **SS2.png:** Consent and instructions
-  - **SS3.png:** Chatbot interaction interface
-  - **SS4.png:** User input example
-  - **SS5.png:** Feedback/Survey page
-  - **SS6.png:** Completion/Thank you screen
 
 ---
 
