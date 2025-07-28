@@ -58,7 +58,7 @@ We present a comprehensive mixed-methods analysis of user interactions with ment
 | `code/`                           | Source code for the project, including the web experiment (`index.html`).   |
 | `Excel_Data/`                     | All raw and processed data in Excel format.                                 |
 | `Json_Data/`                      | All chatbot-user conversations in JSON format.                              |
-| `Plots and SS/`                   | Quantitative/qualitative plots and screenshots (SS1.png–SS6.png).           |
+| `Plots and SS/`                   | Quantitative/qualitative plots and screenshots (SS1.png–SS6.png from web experiment).           |
 | `Reports/`                        | Mini report, conference abstract, and full conversation logs (PDF).         |
 | `quantitative_qualitative_analysis.py` | Script for all quantitative and qualitative analyses.                  |
 
