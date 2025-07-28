@@ -5,142 +5,131 @@
 
 # AI Awareness and User Experience in Mental Health Chatbots: A Mixed-Methods Study
 
-**AAAI-26 Conference Repository**
+_AAAI-26 Conference Repository_
 
 ---
 
 ## Table of Contents
 
-- [About the Project](#about-the-project)
-- [Paper and Authors](#paper-and-authors)
+- [Overview](#overview)
+- [Authors](#authors)
 - [Repository Structure](#repository-structure)
-- [Web Experiment Demo](#web-experiment-demo)
-- [Data and Analysis](#data-and-analysis)
-- [Reports and Documentation](#reports-and-documentation)
-- [Screenshots and Plots](#screenshots-and-plots)
-- [How to Use](#how-to-use)
+- [Web Experiment](#web-experiment)
+- [Data & Analysis](#data--analysis)
+- [Reports & Documentation](#reports--documentation)
+- [Screenshots & Plots](#screenshots--plots)
+- [Usage](#usage)
 - [Contact](#contact)
 - [License](#license)
 
 ---
 
-## About the Project
+## Overview
 
-This repository accompanies our AAAI-26 paper, **"AI Awareness and User Experience in Mental Health Chatbots: A Mixed-Methods Study"**.  
-We present a comprehensive analysis of user interactions with mental health chatbots, combining quantitative and qualitative methods to explore AI awareness and user experience.
+This repository contains all materials for our AAAI-26 paper, **"AI Awareness and User Experience in Mental Health Chatbots: A Mixed-Methods Study"**.  
+We present a comprehensive mixed-methods analysis of user interactions with mental health chatbots, including the full web experiment, datasets, analysis scripts, and supplementary reports.
 
 ---
 
-## Paper and Authors
+## Authors
 
-**Title:**  
-AI Awareness and User Experience in Mental Health Chatbots: A Mixed-Methods Study
-
-**Authors:**  
 - **Pejman Ebrahimi** (Corresponding Author)  
-  Department of Information Systems & Computer Science, University of Liechtenstein  
-  ORCID: [0000-0003-0125-3707](https://orcid.org/0000-0003-0125-3707)  
-  Email: pejman.ebrahimi@uni.li
+  University of Liechtenstein  
+  [ORCID](https://orcid.org/0000-0003-0125-3707) | pejman.ebrahimi@uni.li
 
 - **Lynn Miriam Weisker**  
-  Department of Information Systems & Computer Science, University of Liechtenstein  
-  ORCID: [0009-0005-3621-4670](https://orcid.org/0009-0005-3621-4670)  
-  Email: Lynn.Weisker@uni.li
+  University of Liechtenstein  
+  [ORCID](https://orcid.org/0009-0005-3621-4670)
 
 - **Johannes Schneider**  
-  Department of Information Systems & Computer Science, University of Liechtenstein  
-  ORCID: [0000-0001-7190-9682](https://orcid.org/0000-0001-7190-9682)  
-  Email: johannes.schneider@uni.li
+  University of Liechtenstein  
+  [ORCID](https://orcid.org/0000-0001-7190-9682)
 
 - **Hari Mohan Pandey**  
-  Associate Professor (Sr. Lecturer) of Data Science and Artificial Intelligence, Bournemouth University, UK  
-  ORCID: [0000-0002-9128-068X](https://orcid.org/0000-0002-9128-068X)  
-  Email: hpandey@bournemouth.ac.uk
+  Bournemouth University, UK  
+  [ORCID](https://orcid.org/0000-0002-9128-068X)
 
 ---
 
 ## Repository Structure
 
-- **code/**  
-  Contains all source code for the project, including the web experiment.  
-  - `index.html`: Main code for the online experiment ([Live Demo](https://arad1367.github.io/therapist/)).  
-- **Excel_Data/**  
-  All raw and processed data in Excel format.
-- **Json_Data/**  
-  All chatbot-user conversations in JSON format.
-- **Plots and SS/**  
-  Quantitative and qualitative plots, and screenshots (SS1.png to SS6.png) from the experiment.
-- **Reports/**  
-  - Mini report of results  
-  - Paper abstract for the conference  
-  - `merged_conversations_reportlab.pdf`: All chatbot-user conversations (117 pages)
-- **quantitative_qualitative_analysis.py**  
-  Script for all quantitative and qualitative analyses.
+| Folder/File                       | Description                                                                 |
+|------------------------------------|-----------------------------------------------------------------------------|
+| `code/`                           | Source code for the project, including the web experiment (`index.html`).   |
+| `Excel_Data/`                     | All raw and processed data in Excel format.                                 |
+| `Json_Data/`                      | All chatbot-user conversations in JSON format.                              |
+| `Plots and SS/`                   | Quantitative/qualitative plots and screenshots (SS1.png–SS6.png).           |
+| `Reports/`                        | Mini report, conference abstract, and full conversation logs (PDF).         |
+| `quantitative_qualitative_analysis.py` | Script for all quantitative and qualitative analyses.                  |
 
 ---
 
-## Web Experiment Demo
+## Web Experiment
 
-You can explore the web-based experiment directly:  
-👉 [Live Experiment Demo](https://arad1367.github.io/therapist/)
-
-The `index.html` file in the `code/` folder contains the full implementation.  
-Screenshots (SS1.png to SS6.png) in the "Plots and SS" folder provide a visual summary of the experiment process and user interface.
-
----
-
-## Data and Analysis
-
-- **Excel_Data/**: All experiment data in Excel format for transparency and reproducibility.
-- **Json_Data/**: Complete set of chatbot-user conversations in JSON.
-- **quantitative_qualitative_analysis.py**: Python script for all data analysis (quantitative and qualitative).
+- **Live Demo:** [https://arad1367.github.io/therapist/](https://arad1367.github.io/therapist/)
+- The web experiment is implemented in `code/index.html`.  
+- Screenshots SS1.png–SS6.png (in `Plots and SS/`) illustrate the user flow and interface:
+  - **SS1.png:** Welcome screen
+  - **SS2.png:** Consent and instructions
+  - **SS3.png:** Chatbot interaction interface
+  - **SS4.png:** User input example
+  - **SS5.png:** Feedback/Survey page
+  - **SS6.png:** Completion/Thank you screen
 
 ---
 
-## Reports and Documentation
+## Data & Analysis
 
-- **Reports/**:  
-  - Mini report summarizing quantitative and qualitative results  
-  - Conference abstract  
+- **Excel_Data/**: Contains all experiment data in Excel format.
+- **Json_Data/**: Includes all chatbot-user conversations in JSON.
+- **quantitative_qualitative_analysis.py**: Python script for all quantitative and qualitative analyses.
+
+---
+
+## Reports & Documentation
+
+- **Reports/**:
+  - Mini report summarizing results
+  - Conference abstract
   - `merged_conversations_reportlab.pdf`: Full transcript of all chatbot-user conversations (117 pages)
 
 ---
 
-## Screenshots and Plots
+## Screenshots & Plots
 
-- **Plots and SS/**:  
-  - All plots from quantitative and qualitative analyses  
-  - Screenshots (SS1.png to SS6.png) illustrating the web experiment and user experience
+- **Plots and SS/**:
+  - All plots from quantitative and qualitative analyses
+  - Screenshots (SS1.png–SS6.png) showing the experiment process
 
 ---
 
-## How to Use
+## Usage
 
-1. **Clone the repository:**  
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/arad1367/AAAI-26.git
 
+- Explore the code and data:
+Web experiment: code/index.html
 
-- Explore the code:
-See the code/ folder for the web experiment and analysis scripts.
+- Data: Excel_Data/, Json_Data/
+
+- Analysis: quantitative_qualitative_analysis.py
 
 - View the experiment online:
 `https://arad1367.github.io/therapist/`
 
-- Analyze the data:
-Use the provided Excel and JSON data, and run quantitative_qualitative_analysis.py for custom analysis.
+- Review reports and documentation:
 
-- Check reports and documentation:
-See the Reports/ folder for summaries, abstracts, and full conversation logs.
+- See the Reports/ folder for summaries, abstracts, and full conversation logs.
 
 ## Contact
-For questions, collaborations, or feedback, please contact:
+* For questions or collaboration, contact:
 `Pejman Ebrahimi`
-pejman.ebrahimi@uni.li
-pejman.ebrahimi77@gmail.com
+* pejman.ebrahimi@uni.li | pejman.ebrahimi77@gmail.com
 
 ## License
-This repository is provided for academic and research purposes.
-Please cite our paper if you use any part of this work.
+- This repository is provided for academic and research purposes.
+- Please cite our paper if you use any part of this work.
 
-- GitHub Repository: https://github.com/arad1367/AAAI-26
+* GitHub: https://github.com/arad1367/AAAI-26
