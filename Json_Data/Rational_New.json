@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "d0342d68-f981-4e98-91d5-f135659864ce",
+    "source": "API/Embed",
+    "sessionId": "d0342d68-f981-4e98-91d5-f135659864ce",
+    "memoryType": "Buffer Memory",
+    "email": null,
+    "messages": [
+      {
+        "content": "66a55548895709a88b95aef0",
+        "role": "user",
+        "time": "2025-07-22T03:47:38.868Z"
+      },
+      {
+        "content": "Thanks for sharing your Prolific ID. How can I assist you today?",
+        "role": "bot",
+        "time": "2025-07-22T03:47:43.399Z"
+      },
+      {
+        "content": "I have feelings of Anxiety that I don't understand I do most of the time when I'm in public",
+        "role": "user",
+        "time": "2025-07-22T03:48:32.993Z"
+      },
+      {
+        "content": "I see, feeling anxious in public can be really challenging. Can you describe what triggers those feelings for you?",
+        "role": "bot",
+        "time": "2025-07-22T03:48:37.625Z"
+      },
+      {
+        "content": "It affects me because I will never have confidence about that",
+        "role": "user",
+        "time": "2025-07-22T03:49:26.733Z"
+      },
+      {
+        "content": "That makes sense; lack of confidence can amplify anxiety. Have you considered small steps to gradually build your confidence in public settings?",
+        "role": "bot",
+        "time": "2025-07-22T03:49:32.311Z"
+      },
+      {
+        "content": "No",
+        "role": "user",
+        "time": "2025-07-22T03:49:45.968Z"
+      },
+      {
+        "content": "That's okay! A good start might be practicing in less crowded places first. Would you be open to trying that?",
+        "role": "bot",
+        "time": "2025-07-22T03:49:50.816Z"
+      },
+      {
+        "content": "I will definitely try that",
+        "role": "user",
+        "time": "2025-07-22T03:50:12.922Z"
+      },
+      {
+        "content": "Great! Taking small steps can really help. How do you feel about setting a specific time to practice?",
+        "role": "bot",
+        "time": "2025-07-22T03:50:17.371Z"
+      },
+      {
+        "content": "I  feel great and I'm willing have a practice ",
+        "role": "user",
+        "time": "2025-07-22T03:51:16.870Z"
+      },
+      {
+        "content": "That's wonderful to hear! What kind of setting do you think would be best for your first practice?",
+        "role": "bot",
+        "time": "2025-07-22T03:51:21.413Z"
+      },
+      {
+        "content": "I don't have any idea can you help for that ",
+        "role": "user",
+        "time": "2025-07-22T03:52:07.515Z"
+      },
+      {
+        "content": "Sure! Consider starting at a quiet café or a park. Those places often feel less overwhelming. How does that sound?",
+        "role": "bot",
+        "time": "2025-07-22T03:52:12.532Z"
+      },
+      {
+        "content": "It sound great I will start  there",
+        "role": "user",
+        "time": "2025-07-22T03:53:11.174Z"
+      },
+      {
+        "content": "I'm glad to hear that! Just remember to take your time and breathe. How do you plan to feel afterward?",
+        "role": "bot",
+        "time": "2025-07-22T03:53:16.470Z"
+      },
+      {
+        "content": "Yes I will breathe in and out so that it can boost my confidence ",
+        "role": "user",
+        "time": "2025-07-22T03:54:31.019Z"
+      },
+      {
+        "content": "That’s a solid strategy! Focusing on your breath can really help calm those nerves. How about setting a small goal for your visit?",
+        "role": "bot",
+        "time": "2025-07-22T03:54:36.625Z"
+      },
+      {
+        "content": "Yes",
+        "role": "user",
+        "time": "2025-07-22T03:55:35.654Z"
+      },
+      {
+        "content": "Awesome! Maybe aim to stay for a short time and observe your surroundings? That could be a good start.",
+        "role": "bot",
+        "time": "2025-07-22T03:55:40.600Z"
+      },
+      {
+        "content": "Ok thank you so much",
+        "role": "user",
+        "time": "2025-07-22T03:56:52.101Z"
+      },
+      {
+        "content": "You're very welcome! I'm here to support you. Feel free to share your progress anytime!",
+        "role": "bot",
+        "time": "2025-07-22T03:56:56.742Z"
+      },
+      {
+        "content": "Definitely I will do that",
+        "role": "user",
+        "time": "2025-07-22T03:57:15.311Z"
+      },
+      {
+        "content": "I'm looking forward to hearing about it! Remember, take it one step at a time.",
+        "role": "bot",
+        "time": "2025-07-22T03:57:19.714Z"
+      }
+    ]
+  },
+  {
+    "id": "10834ce4-c1d1-4d35-906d-a6d408408539",
+    "source": "API/Embed",
+    "sessionId": "10834ce4-c1d1-4d35-906d-a6d408408539",
+    "memoryType": "Buffer Memory",
+    "email": null,
+    "messages": [
+      {
+        "content": "67ea58ce873bd65dcf36c8be",
+        "role": "user",
+        "time": "2025-07-22T03:30:13.515Z"
+      },
+      {
+        "content": "Thanks for sharing your Prolific ID! How can I assist you today?",
+        "role": "bot",
+        "time": "2025-07-22T03:30:17.992Z"
+      },
+      {
+        "content": "HI, I HAVE STRESS ABOUT MY RELATIONSHIP RIGHT NOW",
+        "role": "user",
+        "time": "2025-07-22T03:31:13.381Z"
+      },
+      {
+        "content": "I see, relationship stress can be really challenging. What specific issues are you facing?",
+        "role": "bot",
+        "time": "2025-07-22T03:31:18.473Z"
+      },
+      {
+        "content": "I AM NOT MARRIED BUT I LOVE MY GIRLFRIENT BUT I HAVE MADE A HUGE MISTAKE ",
+        "role": "user",
+        "time": "2025-07-22T03:32:21.287Z"
+      },
+      {
+        "content": "That sounds tough. It's normal to feel overwhelmed after making a mistake. Can you share what happened?",
+        "role": "bot",
+        "time": "2025-07-22T03:32:26.245Z"
+      },
+      {
+        "content": "I CHEATED ON HER  ",
+        "role": "user",
+        "time": "2025-07-22T03:32:51.889Z"
+      },
+      {
+        "content": "I understand that must feel heavy. It’s important to reflect on what led to that choice. How do you feel about it now?",
+        "role": "bot",
+        "time": "2025-07-22T03:32:57.038Z"
+      },
+      {
+        "content": "I REGRET IT ",
+        "role": "user",
+        "time": "2025-07-22T03:33:20.253Z"
+      },
+      {
+        "content": "Regret can be painful but acknowledges your feelings. What steps are you considering to address this?",
+        "role": "bot",
+        "time": "2025-07-22T03:33:24.764Z"
+      },
+      {
+        "content": "I TRIED TO APOPLOGISE BUT SEEMS LIKE IT IS TOO LATE AND I DO NOT WANT TO LOOSE HER",
+        "role": "user",
+        "time": "2025-07-22T03:34:13.120Z"
+      },
+      {
+        "content": "It’s understandable to fear losing her. Have you thought about how to show her you’re genuinely sorry?",
+        "role": "bot",
+        "time": "2025-07-22T03:34:17.533Z"
+      },
+      {
+        "content": "SHE DOES NOT GIVE ME CHANCE TO SHOW HER",
+        "role": "user",
+        "time": "2025-07-22T03:34:53.558Z"
+      },
+      {
+        "content": "That must be really difficult. Sometimes, giving her space can help. How do you feel about that approach?",
+        "role": "bot",
+        "time": "2025-07-22T03:34:59.032Z"
+      },
+      {
+        "content": " I FEELLIKE I WILL LOOSE HER FOREVER",
+        "role": "user",
+        "time": "2025-07-22T03:35:26.586Z"
+      },
+      {
+        "content": "It’s natural to feel that way. Have you considered writing her a heartfelt letter to express your feelings?",
+        "role": "bot",
+        "time": "2025-07-22T03:35:31.374Z"
+      },
+      {
+        "content": "NO BUT I CAN TRY THAT ",
+        "role": "user",
+        "time": "2025-07-22T03:36:03.638Z"
+      },
+      {
+        "content": "That could be a meaningful way to communicate. Focus on your feelings and remorse. How do you think she might respond?",
+        "role": "bot",
+        "time": "2025-07-22T03:36:08.727Z"
+      },
+      {
+        "content": "I DO NOT KNOW ",
+        "role": "user",
+        "time": "2025-07-22T03:36:37.541Z"
+      },
+      {
+        "content": "That uncertainty can be tough to sit with. Regardless of her response, what’s important is your honesty. How do you feel about being vulnerable with her?",
+        "role": "bot",
+        "time": "2025-07-22T03:36:43.464Z"
+      },
+      {
+        "content": " I WILL TRY THAT ALSO ",
+        "role": "user",
+        "time": "2025-07-22T03:37:34.521Z"
+      },
+      {
+        "content": "That sounds like a great step. Being open can foster understanding. Remember to be patient with her feelings too.",
+        "role": "bot",
+        "time": "2025-07-22T03:37:39.558Z"
+      },
+      {
+        "content": " I WILL AND I KNOW WHAT I DID TO HER. IT IS PAINFUL ",
+        "role": "user",
+        "time": "2025-07-22T03:39:37.416Z"
+      },
+      {
+        "content": "It’s good that you recognize the pain caused. Acknowledging it is the first step to healing for both of you. How are you coping with your own feelings during this time?",
+        "role": "bot",
+        "time": "2025-07-22T03:39:44.228Z"
+      }
+    ]
+  },
+  {
+    "id": "4912ec21-4354-4b9b-8e03-8be64749ace4",
+    "source": "API/Embed",
+    "sessionId": "4912ec21-4354-4b9b-8e03-8be64749ace4",
+    "memoryType": "Buffer Memory",
+    "email": null,
+    "messages": [
+      {
+        "content": "67f3b2e0f676f1dd97a2403f",
+        "role": "user",
+        "time": "2025-07-22T02:43:04.277Z"
+      },
+      {
+        "content": "Thanks for sharing your Prolific ID. How can I support you today?",
+        "role": "bot",
+        "time": "2025-07-22T02:43:08.831Z"
+      },
+      {
+        "content": "I am the only among my friends who is not engaged",
+        "role": "user",
+        "time": "2025-07-22T02:44:14.948Z"
+      },
+      {
+        "content": "I see how that might feel isolating. How does that impact your feelings about your friendships?",
+        "role": "bot",
+        "time": "2025-07-22T02:44:19.466Z"
+      },
+      {
+        "content": "I feel like he does not love me thats why he is not popping the question",
+        "role": "user",
+        "time": "2025-07-22T02:45:26.962Z"
+      },
+      {
+        "content": "That makes sense; those feelings can be really tough. Have you talked to him about your concerns?",
+        "role": "bot",
+        "time": "2025-07-22T02:45:31.802Z"
+      },
+      {
+        "content": "No ,  I do not want him to think Im too needy",
+        "role": "user",
+        "time": "2025-07-22T02:46:04.561Z"
+      },
+      {
+        "content": "I understand that worry. It's important to express your feelings while also being open. What if you approached it casually?",
+        "role": "bot",
+        "time": "2025-07-22T02:46:09.435Z"
+      },
+      {
+        "content": "I tried but he told me if I wan to marry myself I should go ahead",
+        "role": "user",
+        "time": "2025-07-22T02:46:55.031Z"
+      },
+      {
+        "content": "That sounds really hurtful. It’s natural to feel upset. How do you want to respond to that?",
+        "role": "bot",
+        "time": "2025-07-22T02:46:59.448Z"
+      },
+      {
+        "content": "I just dropped it and dont want to talk to him about it again",
+        "role": "user",
+        "time": "2025-07-22T02:47:36.963Z"
+      },
+      {
+        "content": "I can see why you'd want to step back. How are you feeling about your relationship overall right now?",
+        "role": "bot",
+        "time": "2025-07-22T02:47:41.216Z"
+      },
+      {
+        "content": "I love him but im now thinking maybe he doesnt feel the same way",
+        "role": "user",
+        "time": "2025-07-22T02:48:17.996Z"
+      },
+      {
+        "content": "That’s a tough realization. Love can be complicated. Have you considered what you truly want from this relationship?",
+        "role": "bot",
+        "time": "2025-07-22T02:48:22.876Z"
+      },
+      {
+        "content": "Yes I want to get married and have children with him",
+        "role": "user",
+        "time": "2025-07-22T02:48:56.429Z"
+      },
+      {
+        "content": "That’s a meaningful goal. It's important to align your values and desires. Do you think he shares that vision?",
+        "role": "bot",
+        "time": "2025-07-22T02:49:02.604Z"
+      },
+      {
+        "content": "Yes he does but he is not ready now and I am ready",
+        "role": "user",
+        "time": "2025-07-22T02:49:40.230Z"
+      },
+      {
+        "content": "I see the conflict there. It’s tough when timing doesn’t align. How do you feel about waiting for him?",
+        "role": "bot",
+        "time": "2025-07-22T02:49:45.074Z"
+      },
+      {
+        "content": "I dont mind but im tired of being the bridemaid not the bride",
+        "role": "user",
+        "time": "2025-07-22T02:50:29.141Z"
+      },
+      {
+        "content": "That’s completely understandable. Feeling stuck can be draining. What would help you manage those feelings while you wait?",
+        "role": "bot",
+        "time": "2025-07-22T02:50:34.707Z"
+      },
+      {
+        "content": "I think I should stop comparing myself to my friends",
+        "role": "user",
+        "time": "2025-07-22T02:51:30.024Z"
+      },
+      {
+        "content": "That’s a great insight. Focusing on your own journey can be freeing. What steps can you take to shift that focus?",
+        "role": "bot",
+        "time": "2025-07-22T02:51:35.146Z"
+      },
+      {
+        "content": "I really do not know , it's easier said than done",
+        "role": "user",
+        "time": "2025-07-22T02:52:37.746Z"
+      },
+      {
+        "content": "I get that; it can be challenging. Maybe start by practicing self-compassion. What do you enjoy about yourself?",
+        "role": "bot",
+        "time": "2025-07-22T02:52:42.523Z"
+      }
+    ]
+  },
+  {
+    "id": "cdaaa4bd-5bf3-4924-8fc4-6295d7f31921",
+    "source": "API/Embed",
+    "sessionId": "cdaaa4bd-5bf3-4924-8fc4-6295d7f31921",
+    "memoryType": "Buffer Memory",
+    "email": null,
+    "messages": [
+      {
+        "content": "67c7395392c9a85d7992b902",
+        "role": "user",
+        "time": "2025-07-21T23:21:25.936Z"
+      },
+      {
+        "content": "Thanks for sharing your Prolific ID. What’s been on your mind lately?",
+        "role": "bot",
+        "time": "2025-07-21T23:21:30.819Z"
+      },
+      {
+        "content": "I'm stressed ",
+        "role": "user",
+        "time": "2025-07-21T23:21:50.886Z"
+      },
+      {
+        "content": "I see, stress can feel overwhelming. What do you think is causing it for you right now?",
+        "role": "bot",
+        "time": "2025-07-21T23:21:55.907Z"
+      },
+      {
+        "content": "I got a job far from home",
+        "role": "user",
+        "time": "2025-07-21T23:22:14.826Z"
+      },
+      {
+        "content": "That makes sense; a long commute can add stress. Have you thought about ways to manage that commute?",
+        "role": "bot",
+        "time": "2025-07-21T23:22:19.698Z"
+      },
+      {
+        "content": "No. I'm thinking of relocating ",
+        "role": "user",
+        "time": "2025-07-21T23:23:12.879Z"
+      },
+      {
+        "content": "Relocating could definitely ease the stress. What’s holding you back from making that move?",
+        "role": "bot",
+        "time": "2025-07-21T23:23:18.699Z"
+      },
+      {
+        "content": "I have a small baby at home ",
+        "role": "user",
+        "time": "2025-07-21T23:23:47.848Z"
+      },
+      {
+        "content": "I understand, balancing a move with a baby can be tough. How are you feeling about managing both?",
+        "role": "bot",
+        "time": "2025-07-21T23:23:52.339Z"
+      },
+      {
+        "content": "I'm really stressed ",
+        "role": "user",
+        "time": "2025-07-21T23:24:11.174Z"
+      },
+      {
+        "content": "That’s completely understandable. Have you considered any strategies to help reduce your stress?",
+        "role": "bot",
+        "time": "2025-07-21T23:24:16.224Z"
+      },
+      {
+        "content": "Working close to my family is the best ",
+        "role": "user",
+        "time": "2025-07-21T23:24:53.448Z"
+      },
+      {
+        "content": "That sounds like a solid plan. How do you think that support would help you feel less stressed?",
+        "role": "bot",
+        "time": "2025-07-21T23:24:58.401Z"
+      },
+      {
+        "content": "I'm thinking of moving with them ",
+        "role": "user",
+        "time": "2025-07-21T23:25:36.411Z"
+      },
+      {
+        "content": "Living with family can offer great support. What do you feel are the pros and cons of that decision?",
+        "role": "bot",
+        "time": "2025-07-21T23:25:40.959Z"
+      },
+      {
+        "content": "The pros are that they will be living with me. Cons are that we will be moving with them to a different environment, which is not easy in terms of adjusting. ",
+        "role": "user",
+        "time": "2025-07-21T23:29:25.264Z"
+      },
+      {
+        "content": "I see, adjusting to a new environment can be challenging. What strategies can you think of to ease that transition?",
+        "role": "bot",
+        "time": "2025-07-21T23:29:30.244Z"
+      },
+      {
+        "content": "We will get used",
+        "role": "user",
+        "time": "2025-07-21T23:29:44.934Z"
+      },
+      {
+        "content": "That's a positive outlook! Gradual adjustments can really help. What kind of support do you think you'll need during this change?",
+        "role": "bot",
+        "time": "2025-07-21T23:29:50.634Z"
+      },
+      {
+        "content": "Emotional support ",
+        "role": "user",
+        "time": "2025-07-21T23:30:05.348Z"
+      },
+      {
+        "content": "Emotional support is vital during transitions. Have you talked with your family about how they can best support you?",
+        "role": "bot",
+        "time": "2025-07-21T23:30:10.207Z"
+      }
+    ]
+  },
+  {
+    "id": "afbe4744-2b34-4ea0-b0ed-516e5d0f1310",
+    "source": "API/Embed",
+    "sessionId": "afbe4744-2b34-4ea0-b0ed-516e5d0f1310",
+    "memoryType": "Buffer Memory",
+    "email": null,
+    "messages": [
+      {
+        "content": "67307efa18110417bb86b8c6",
+        "role": "user",
+        "time": "2025-07-21T20:39:06.445Z"
+      },
+      {
+        "content": "Thanks for sharing your Prolific ID. What’s been on your mind lately?",
+        "role": "bot",
+        "time": "2025-07-21T20:39:11.549Z"
+      },
+      {
+        "content": "There's too much in my mind.  I'm stressed about financially ",
+        "role": "user",
+        "time": "2025-07-21T20:41:37.649Z"
+      },
+      {
+        "content": "I see, financial stress can be overwhelming. What specific aspects are causing you the most worry?",
+        "role": "bot",
+        "time": "2025-07-21T20:41:42.691Z"
+      },
+      {
+        "content": "I'm bread winner in my family so every one was looking to me in school fees and food",
+        "role": "user",
+        "time": "2025-07-21T20:43:15.802Z"
+      },
+      {
+        "content": "That makes sense; that’s a heavy responsibility. How do you usually cope with this pressure?",
+        "role": "bot",
+        "time": "2025-07-21T20:43:20.935Z"
+      },
+      {
+        "content": "That's my stress where is come from because  of heavy responsibility ",
+        "role": "user",
+        "time": "2025-07-21T20:46:50.020Z"
+      },
+      {
+        "content": "It’s understandable to feel stressed with such weight on your shoulders. Have you considered breaking down your responsibilities into smaller, manageable tasks?",
+        "role": "bot",
+        "time": "2025-07-21T20:46:56.256Z"
+      },
+      {
+        "content": "I can't manage it because of money",
+        "role": "user",
+        "time": "2025-07-21T20:48:08.987Z"
+      },
+      {
+        "content": "I hear you; financial limitations can feel very constraining. Have you thought about creating a budget or seeking assistance programs?",
+        "role": "bot",
+        "time": "2025-07-21T20:48:14.370Z"
+      }
+    ]
+  },
+  {
+    "id": "5177bd03-6d3c-486a-92f8-7efe22f09dc2",
+    "source": "API/Embed",
+    "sessionId": "5177bd03-6d3c-486a-92f8-7efe22f09dc2",
+    "memoryType": "Buffer Memory",
+    "email": null,
+    "messages": [
+      {
+        "content": "664b85e7ff6eae55f19c060d",
+        "role": "user",
+        "time": "2025-07-21T19:25:39.117Z"
+      },
+      {
+        "content": "Thanks for sharing your Prolific ID. What's on your mind today?",
+        "role": "bot",
+        "time": "2025-07-21T19:25:43.804Z"
+      },
+      {
+        "content": "i want us to talk about stress",
+        "role": "user",
+        "time": "2025-07-21T19:26:54.758Z"
+      },
+      {
+        "content": "I see, stress can be overwhelming at times. What specifically about stress is bothering you?",
+        "role": "bot",
+        "time": "2025-07-21T19:27:00.069Z"
+      },
+      {
+        "content": "how to cope",
+        "role": "user",
+        "time": "2025-07-21T19:27:15.311Z"
+      },
+      {
+        "content": "Coping can be challenging. Have you identified any stress triggers in your life?",
+        "role": "bot",
+        "time": "2025-07-21T19:27:20.769Z"
+      },
+      {
+        "content": "yes, some",
+        "role": "user",
+        "time": "2025-07-21T19:27:36.257Z"
+      },
+      {
+        "content": "That makes sense. What are some of those triggers you’ve noticed?",
+        "role": "bot",
+        "time": "2025-07-21T19:27:40.590Z"
+      },
+      {
+        "content": "unfinished tasks that are due for submissions and financial crisis",
+        "role": "user",
+        "time": "2025-07-21T19:28:22.264Z"
+      },
+      {
+        "content": "Those are significant stressors. Have you tried breaking tasks into smaller parts or seeking support for financial issues?",
+        "role": "bot",
+        "time": "2025-07-21T19:28:27.382Z"
+      },
+      {
+        "content": "yes but sometimes its hard ",
+        "role": "user",
+        "time": "2025-07-21T19:29:30.651Z"
+      },
+      {
+        "content": "I understand, it can feel heavy. What part of managing those tasks feels hardest for you?",
+        "role": "bot",
+        "time": "2025-07-21T19:29:35.155Z"
+      },
+      {
+        "content": "coping up with the changes",
+        "role": "user",
+        "time": "2025-07-21T19:30:01.441Z"
+      },
+      {
+        "content": "Change can be really tough. What specific changes are you finding most challenging right now?",
+        "role": "bot",
+        "time": "2025-07-21T19:30:05.720Z"
+      },
+      {
+        "content": "changing from working on the major task at once to breaking it into smaller ones",
+        "role": "user",
+        "time": "2025-07-21T19:31:14.819Z"
+      },
+      {
+        "content": "That shift can be tricky. How about starting with just one small task each day?",
+        "role": "bot",
+        "time": "2025-07-21T19:31:19.723Z"
+      },
+      {
+        "content": "maybe i will try that, i hope it will help",
+        "role": "user",
+        "time": "2025-07-21T19:31:49.773Z"
+      },
+      {
+        "content": "That sounds like a good plan. Remember, it's all about progress, not perfection. How do you feel about giving it a go?",
+        "role": "bot",
+        "time": "2025-07-21T19:31:54.701Z"
+      },
+      {
+        "content": "i feel energized and ready ",
+        "role": "user",
+        "time": "2025-07-21T19:33:01.393Z"
+      },
+      {
+        "content": "That's great to hear! Harness that energy and take it one step at a time. What small task will you tackle first?",
+        "role": "bot",
+        "time": "2025-07-21T19:33:07.014Z"
+      },
+      {
+        "content": "designing my daily plan",
+        "role": "user",
+        "time": "2025-07-21T19:33:39.109Z"
+      },
+      {
+        "content": "Creating a daily plan is a fantastic start! What key tasks do you want to include in it?",
+        "role": "bot",
+        "time": "2025-07-21T19:33:43.683Z"
+      },
+      {
+        "content": "assembling my work catalog ",
+        "role": "user",
+        "time": "2025-07-21T19:35:07.976Z"
+      },
+      {
+        "content": "Assembling your work catalog sounds productive. How will you break that down into manageable steps?",
+        "role": "bot",
+        "time": "2025-07-21T19:35:13.425Z"
+      }
+    ]
+  },
+  {
+    "id": "a0733497-fb6b-42ff-8a39-7d6cd83d9b23",
+    "source": "API/Embed",
+    "sessionId": "a0733497-fb6b-42ff-8a39-7d6cd83d9b23",
+    "memoryType": "Buffer Memory",
+    "email": null,
+    "messages": [
+      {
+        "content": "6697c875a5e60dd2fc3e109d",
+        "role": "user",
+        "time": "2025-07-21T18:55:24.606Z"
+      },
+      {
+        "content": "Thanks for sharing your Prolific ID. How can I assist you today?",
+        "role": "bot",
+        "time": "2025-07-21T18:55:29.367Z"
+      },
+      {
+        "content": "TODAY AM STRESS",
+        "role": "user",
+        "time": "2025-07-21T18:55:51.550Z"
+      },
+      {
+        "content": "I see that you're feeling stressed. Can you share what's causing it?",
+        "role": "bot",
+        "time": "2025-07-21T18:55:56.414Z"
+      },
+      {
+        "content": "the was a strike where a stay today",
+        "role": "user",
+        "time": "2025-07-21T18:56:53.738Z"
+      },
+      {
+        "content": "That sounds frustrating. Strikes can disrupt plans. How did it affect your day?",
+        "role": "bot",
+        "time": "2025-07-21T18:56:58.330Z"
+      },
+      {
+        "content": "its affect my day because i did not go to work",
+        "role": "user",
+        "time": "2025-07-21T18:57:46.296Z"
+      },
+      {
+        "content": "Missing work can be stressful. How do you feel about not being able to go in today?",
+        "role": "bot",
+        "time": "2025-07-21T18:57:50.937Z"
+      },
+      {
+        "content": "is stressing because a have alot to do at work",
+        "role": "user",
+        "time": "2025-07-21T18:58:31.878Z"
+      },
+      {
+        "content": "I understand. Having a lot to catch up on can be overwhelming. Have you thought about breaking it down into smaller tasks?",
+        "role": "bot",
+        "time": "2025-07-21T18:58:37.439Z"
+      },
+      {
+        "content": "no ",
+        "role": "user",
+        "time": "2025-07-21T18:59:05.198Z"
+      },
+      {
+        "content": "That’s okay! Start by listing a few tasks to tackle first. Would that feel manageable?",
+        "role": "bot",
+        "time": "2025-07-21T18:59:10.438Z"
+      },
+      {
+        "content": "yes i will be manageable",
+        "role": "user",
+        "time": "2025-07-21T19:01:13.285Z"
+      },
+      {
+        "content": "Great! Break it into small steps, and take one at a time. How does that sound?",
+        "role": "bot",
+        "time": "2025-07-21T19:01:18.044Z"
+      },
+      {
+        "content": "is sound good",
+        "role": "user",
+        "time": "2025-07-21T19:01:48.825Z"
+      },
+      {
+        "content": "I’m glad to hear that! What’s the first task you’d like to focus on?",
+        "role": "bot",
+        "time": "2025-07-21T19:01:53.640Z"
+      },
+      {
+        "content": "am helping people that my task everyday",
+        "role": "user",
+        "time": "2025-07-21T19:02:43.429Z"
+      },
+      {
+        "content": "That's wonderful! Helping others can be rewarding. How do you usually feel after assisting them?",
+        "role": "bot",
+        "time": "2025-07-21T19:02:48.114Z"
+      },
+      {
+        "content": "i feel very happy because helping people is my calling",
+        "role": "user",
+        "time": "2025-07-21T19:03:33.360Z"
+      },
+      {
+        "content": "That's truly inspiring! It sounds like you find purpose in your work. How can you carry that positivity into your day today?",
+        "role": "bot",
+        "time": "2025-07-21T19:03:38.377Z"
+      },
+      {
+        "content": "everyday when a wakeup wakeup with a smile knowing am going to help people",
+        "role": "user",
+        "time": "2025-07-21T19:05:22.254Z"
+      },
+      {
+        "content": "That’s a beautiful mindset! Starting each day with positivity can really set the tone. How do you maintain that motivation?",
+        "role": "bot",
+        "time": "2025-07-21T19:05:27.877Z"
+      }
+    ]
+  },
+  {
+    "id": "b1585fd2-7c7f-4c33-a11d-7b46bc86fb07",
+    "source": "API/Embed",
+    "sessionId": "b1585fd2-7c7f-4c33-a11d-7b46bc86fb07",
+    "memoryType": "Buffer Memory",
+    "email": null,
+    "messages": [
+      {
+        "content": "660eafee7515c432e850362d",
+        "role": "user",
+        "time": "2025-07-21T18:37:00.541Z"
+      },
+      {
+        "content": "Thanks for sharing your Prolific ID. How are you feeling today?",
+        "role": "bot",
+        "time": "2025-07-21T18:37:04.976Z"
+      },
+      {
+        "content": "Better than usual how are you",
+        "role": "user",
+        "time": "2025-07-21T18:37:24.382Z"
+      },
+      {
+        "content": "I’m glad to hear you're feeling better! What do you think is contributing to that?",
+        "role": "bot",
+        "time": "2025-07-21T18:37:28.647Z"
+      },
+      {
+        "content": "all the issues i have to face every day",
+        "role": "user",
+        "time": "2025-07-21T18:37:46.082Z"
+      },
+      {
+        "content": "I see, facing daily challenges can be tough. What specific issues are on your mind right now?",
+        "role": "bot",
+        "time": "2025-07-21T18:37:50.661Z"
+      },
+      {
+        "content": "main one is me working like a dog every day and i cant even spoil myself because i am the bread winner at home",
+        "role": "user",
+        "time": "2025-07-21T18:39:34.585Z"
+      },
+      {
+        "content": "That makes sense; it sounds exhausting to carry that responsibility. Have you thought about small ways to treat yourself?",
+        "role": "bot",
+        "time": "2025-07-21T18:39:39.486Z"
+      },
+      {
+        "content": "everyone just wants wants wants needs wants it drives me insane",
+        "role": "user",
+        "time": "2025-07-21T18:39:57.963Z"
+      },
+      {
+        "content": "I can understand how overwhelming that can feel. It’s important to set boundaries. Have you had a chance to express your feelings to them?",
+        "role": "bot",
+        "time": "2025-07-21T18:40:04.078Z"
+      },
+      {
+        "content": "i get told i must not be selfish",
+        "role": "user",
+        "time": "2025-07-21T18:40:19.150Z"
+      },
+      {
+        "content": "That’s a tough position to be in. Remember, taking care of yourself isn’t selfish; it’s essential. What would a healthy boundary look like for you?",
+        "role": "bot",
+        "time": "2025-07-21T18:40:24.932Z"
+      },
+      {
+        "content": "define what you mean by that",
+        "role": "user",
+        "time": "2025-07-21T18:40:47.908Z"
+      },
+      {
+        "content": "Healthy boundaries mean knowing your limits and communicating them clearly. For example, it could mean setting aside time just for yourself each week. What do you think?",
+        "role": "bot",
+        "time": "2025-07-21T18:40:54.293Z"
+      },
+      {
+        "content": "how do i give limits when everything they ask for are essential needs and when i take care of that i am left with nothing",
+        "role": "user",
+        "time": "2025-07-21T18:41:32.661Z"
+      },
+      {
+        "content": "It’s challenging when needs feel urgent. Perhaps you could allocate a specific time for your own needs, even if it's small. Could that work for you?",
+        "role": "bot",
+        "time": "2025-07-21T18:41:38.992Z"
+      },
+      {
+        "content": "i cant even buy myself new clothes. what must i do, buy myself a ice cream and say i am spoiling myself? WOW",
+        "role": "user",
+        "time": "2025-07-21T18:42:20.927Z"
+      },
+      {
+        "content": "It sounds frustrating, and I get that it feels minimal. Even small treats can help recharge you. Have you considered budgeting a tiny amount for little rewards each month?",
+        "role": "bot",
+        "time": "2025-07-21T18:42:27.965Z"
+      },
+      {
+        "content": "As i said i am literally left with nothing by the time i am done taking care o everyone but myself. do you think that is fair? ",
+        "role": "user",
+        "time": "2025-07-21T18:43:07.683Z"
+      },
+      {
+        "content": "It doesn’t seem fair at all. Your needs are just as important. How about exploring ways to balance your responsibilities while still carving out a bit for yourself?",
+        "role": "bot",
+        "time": "2025-07-21T18:43:14.220Z"
+      },
+      {
+        "content": "who do i say i am not going to help to help myself? ",
+        "role": "user",
+        "time": "2025-07-21T18:43:44.389Z"
+      },
+      {
+        "content": "It’s tough to have that conversation. You might start by expressing your feelings honestly and explaining that you need time for yourself to be more supportive. How does that sound?",
+        "role": "bot",
+        "time": "2025-07-21T18:43:51.103Z"
+      },
+      {
+        "content": "so i can get told im a selfish person and inconciderate",
+        "role": "user",
+        "time": "2025-07-21T18:44:33.692Z"
+      },
+      {
+        "content": "That’s a valid concern. It might help to frame your needs as a way to be more present for them. How do you think they might react if you approached it that way?",
+        "role": "bot",
+        "time": "2025-07-21T18:44:39.799Z"
+      },
+      {
+        "content": "everyone would be jumping down my throat thats why i rather say nothing",
+        "role": "user",
+        "time": "2025-07-21T18:45:02.320Z"
+      },
+      {
+        "content": "I understand that feels safer, but that can lead to resentment. Would it help to practice what you’d say in a calm moment? It might make it easier when you’re ready.",
+        "role": "bot",
+        "time": "2025-07-21T18:45:08.646Z"
+      },
+      {
+        "content": "i would say guys i really work hard can we please buy less meat this month. i am not saying lets not buy ijust saying lets buy less. i have stuff i need to do. how does that sound? ",
+        "role": "user",
+        "time": "2025-07-21T18:46:07.657Z"
+      },
+      {
+        "content": "That sounds like a thoughtful approach! You're asking for a compromise while expressing your needs. How do you feel about bringing that up?",
+        "role": "bot",
+        "time": "2025-07-21T18:46:13.072Z"
+      },
+      {
+        "content": "so much better",
+        "role": "user",
+        "time": "2025-07-21T18:46:23.848Z"
+      },
+      {
+        "content": "I’m glad to hear that! It sounds like a constructive way to start the conversation. Do you feel ready to discuss it with them?",
+        "role": "bot",
+        "time": "2025-07-21T18:46:29.398Z"
+      },
+      {
+        "content": "can i give it a little time? ",
+        "role": "user",
+        "time": "2025-07-21T18:46:43.040Z"
+      },
+      {
+        "content": "Absolutely, take your time. It’s important to feel comfortable before discussing it. What else can we explore in the meantime?",
+        "role": "bot",
+        "time": "2025-07-21T18:46:48.470Z"
+      }
+    ]
+  },
+  {
+    "id": "f98fd69a-2296-43ca-85de-c96f767462ad",
+    "source": "API/Embed",
+    "sessionId": "f98fd69a-2296-43ca-85de-c96f767462ad",
+    "memoryType": "Buffer Memory",
+    "email": null,
+    "messages": [
+      {
+        "content": "67cc3f4c640c0ff4df30a225",
+        "role": "user",
+        "time": "2025-07-21T18:15:56.530Z"
+      },
+      {
+        "content": "Thanks for sharing your Prolific ID! What’s been on your mind lately?",
+        "role": "bot",
+        "time": "2025-07-21T18:16:01.085Z"
+      },
+      {
+        "content": "i have been feeling stressed lately ",
+        "role": "user",
+        "time": "2025-07-21T18:16:43.821Z"
+      },
+      {
+        "content": "I see, stress can be overwhelming. What do you think is causing it for you?",
+        "role": "bot",
+        "time": "2025-07-21T18:16:48.190Z"
+      },
+      {
+        "content": "both my grand mothers have dementia and the conditions are bad",
+        "role": "user",
+        "time": "2025-07-21T18:17:42.905Z"
+      },
+      {
+        "content": "That sounds really tough. Caring for loved ones with dementia can be emotionally draining. How are you coping with it?",
+        "role": "bot",
+        "time": "2025-07-21T18:17:47.936Z"
+      },
+      {
+        "content": "very stressful and when i see them i wonder if these are their last days ",
+        "role": "user",
+        "time": "2025-07-21T18:18:47.987Z"
+      },
+      {
+        "content": "It's completely natural to feel that way. Facing loss can be really heavy. Have you found any ways to manage those feelings?",
+        "role": "bot",
+        "time": "2025-07-21T18:18:53.043Z"
+      },
+      {
+        "content": "i have managed to get emotional support from friends ",
+        "role": "user",
+        "time": "2025-07-21T18:19:45.923Z"
+      },
+      {
+        "content": "That’s great to hear! Support from friends can really help. How do you feel when you talk to them about it?",
+        "role": "bot",
+        "time": "2025-07-21T18:19:50.482Z"
+      },
+      {
+        "content": "it lightens the burden it helps to be able to offload ",
+        "role": "user",
+        "time": "2025-07-21T18:20:30.162Z"
+      },
+      {
+        "content": "I’m glad that helps! Sharing can really ease the weight of stress. Do you find yourself connecting with them often?",
+        "role": "bot",
+        "time": "2025-07-21T18:20:35.085Z"
+      },
+      {
+        "content": "yes but i am thinking of seeing a therapist do you think i should do that",
+        "role": "user",
+        "time": "2025-07-21T18:21:22.244Z"
+      },
+      {
+        "content": "Absolutely, seeing a therapist can provide valuable support. It might help you explore your feelings more deeply. What are you hoping to gain from therapy?",
+        "role": "bot",
+        "time": "2025-07-21T18:21:27.816Z"
+      },
+      {
+        "content": "i am more worried about myself in the event that i lose my grand mothers i want to be able to accept the situation and be able to move on",
+        "role": "user",
+        "time": "2025-07-21T18:22:46.356Z"
+      },
+      {
+        "content": "That makes sense. Preparing emotionally can be really helpful. A therapist can guide you through acceptance and coping strategies. What do you think would help you most in that process?",
+        "role": "bot",
+        "time": "2025-07-21T18:22:52.993Z"
+      },
+      {
+        "content": "i hope to get inner peace to heal my mind as well",
+        "role": "user",
+        "time": "2025-07-21T18:23:51.419Z"
+      },
+      {
+        "content": "Seeking inner peace is a wonderful goal. Therapy can definitely help you find tools for healing. Have you thought about what steps you might take to start this journey?",
+        "role": "bot",
+        "time": "2025-07-21T18:23:57.328Z"
+      },
+      {
+        "content": "yes i am looking for good therapists ",
+        "role": "user",
+        "time": "2025-07-21T18:24:56.718Z"
+      },
+      {
+        "content": "That's a positive step! Finding the right therapist is important. What qualities are you looking for in a therapist?",
+        "role": "bot",
+        "time": "2025-07-21T18:25:01.784Z"
+      },
+      {
+        "content": "a very understanding one",
+        "role": "user",
+        "time": "2025-07-21T18:25:24.721Z"
+      },
+      {
+        "content": "That’s a great quality to seek. An understanding therapist can really help you feel safe. Have you considered how you'll approach the search?",
+        "role": "bot",
+        "time": "2025-07-21T18:25:30.114Z"
+      }
+    ]
+  },
+  {
+    "id": "2ffe396b-49b8-4bb8-8d53-ffa38908e23f",
+    "source": "API/Embed",
+    "sessionId": "2ffe396b-49b8-4bb8-8d53-ffa38908e23f",
+    "memoryType": "Buffer Memory",
+    "email": null,
+    "messages": [
+      {
+        "content": "today am stress because of strike",
+        "role": "user",
+        "time": "2025-07-21T16:52:22.391Z"
+      },
+      {
+        "content": "I see that strikes can create a lot of uncertainty and stress. What specific thoughts or feelings are coming up for you about it?",
+        "role": "bot",
+        "time": "2025-07-21T16:52:27.777Z"
+      },
+      {
+        "content": "Am sharing you my thought because os stike",
+        "role": "user",
+        "time": "2025-07-21T16:54:59.455Z"
+      },
+      {
+        "content": "I appreciate you sharing your thoughts. What concerns you most about the strike?",
+        "role": "bot",
+        "time": "2025-07-21T16:55:04.325Z"
+      },
+      {
+        "content": "because i did go to work and i have a worklord",
+        "role": "user",
+        "time": "2025-07-21T16:55:45.442Z"
+      },
+      {
+        "content": "That makes sense; working with a workload can be really overwhelming. How do you usually manage stress when it gets tough?",
+        "role": "bot",
+        "time": "2025-07-21T16:55:50.839Z"
+      },
+      {
+        "content": "i keep calm and release taking my phone go to ticktok",
+        "role": "user",
+        "time": "2025-07-21T16:56:48.145Z"
+      },
+      {
+        "content": "It sounds like TikTok helps you unwind. Do you find it effective, or do you feel it adds to your stress sometimes?",
+        "role": "bot",
+        "time": "2025-07-21T16:56:53.468Z"
+      },
+      {
+        "content": "yes theres a jokes on ticktok so its help alot",
+        "role": "user",
+        "time": "2025-07-21T16:57:34.036Z"
+      },
+      {
+        "content": "I'm glad to hear that! Laughter can be a great stress reliever. Are there other activities you enjoy that help you relax?",
+        "role": "bot",
+        "time": "2025-07-21T16:57:39.386Z"
+      },
+      {
+        "content": "yes going to the jim execise help",
+        "role": "user",
+        "time": "2025-07-21T16:58:44.635Z"
+      },
+      {
+        "content": "That's great! Exercise can really boost your mood. How often do you get to the gym?",
+        "role": "bot",
+        "time": "2025-07-21T16:58:49.281Z"
+      },
+      {
+        "content": "twice a week i go to gym",
+        "role": "user",
+        "time": "2025-07-21T16:59:39.684Z"
+      },
+      {
+        "content": "That's a solid routine! Adding a few more sessions might help reduce stress even more. How does exercising make you feel?",
+        "role": "bot",
+        "time": "2025-07-21T16:59:44.729Z"
+      },
+      {
+        "content": "on exercising a gain alot of energy ",
+        "role": "user",
+        "time": "2025-07-21T17:00:23.295Z"
+      },
+      {
+        "content": "That's wonderful! Gaining energy from exercise can really improve your overall well-being. Do you have any specific goals you're working toward at the gym?",
+        "role": "bot",
+        "time": "2025-07-21T17:00:29.145Z"
+      },
+      {
+        "content": "no i dont have",
+        "role": "user",
+        "time": "2025-07-21T17:00:48.723Z"
+      },
+      {
+        "content": "That's perfectly fine! Sometimes just enjoying the activity is enough. What do you enjoy most about your gym sessions?",
+        "role": "bot",
+        "time": "2025-07-21T17:00:54.107Z"
+      }
+    ]
+  }
+]
