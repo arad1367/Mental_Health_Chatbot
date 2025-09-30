@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=About.me&logoColor=white)](https://arad1367.github.io/pejman-ebrahimi/)
 [![University](https://img.shields.io/badge/University-00205B?style=for-the-badge&logo=academia&logoColor=white)](https://www.uni.li/pejman.ebrahimi?set_language=en)
 
-# AI Awareness and User Experience in Mental Health Chatbots: A Mixed-Methods Study
+# AI Identity Disclosure and User Experience in Mental Health Chatbots: A Mixed-Methods Study
 
 _AAAI-26 : Our Conference Paper Repository_
 
