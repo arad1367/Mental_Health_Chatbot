@@ -5,7 +5,7 @@
 
 # AI Identity Disclosure and User Experience in Mental Health Chatbots: A Mixed-Methods Study
 
-_AAAI-26 : Our Conference Paper Repository_
+_Our Conference Paper Repository_
 
 ---
 
@@ -26,7 +26,7 @@ _AAAI-26 : Our Conference Paper Repository_
 
 ## Overview
 
-This repository contains all materials for our AAAI-26 paper, **"AI Awareness and User Experience in Mental Health Chatbots: A Mixed-Methods Study"**.  
+This repository contains all materials for our conference paper, **"AI Identity Disclosure and User Experience in Mental Health Chatbots: A Mixed-Methods Study"**.  
 We present a comprehensive mixed-methods analysis of user interactions with mental health chatbots, including the full web experiment, datasets, analysis scripts, and supplementary reports.
 
 ---
@@ -48,19 +48,6 @@ We present a comprehensive mixed-methods analysis of user interactions with ment
 - **Hari Mohan Pandey**  
   Bournemouth University, UK  
   [ORCID](https://orcid.org/0000-0002-9128-068X)
-
----
-
-## Repository Structure
-
-| Folder/File                       | Description                                                                 |
-|------------------------------------|-----------------------------------------------------------------------------|
-| `code/`                           | Source code for the project, including the web experiment (`index.html`).   |
-| `Excel_Data/`                     | All raw and processed data in Excel format.                                 |
-| `Json_Data/`                      | All chatbot-user conversations in JSON format.                              |
-| `Plots and SS/`                   | Quantitative/qualitative plots and screenshots (SS1.png–SS6.png from web experiment).           |
-| `Reports/`                        | Mini report, conference abstract, and full conversation logs (PDF).         |
-| `quantitative_qualitative_analysis.py` | Script for all quantitative and qualitative analyses.                  |
 
 ---
 
